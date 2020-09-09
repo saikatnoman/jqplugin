@@ -1,0 +1,9 @@
+jq plugin integrate er jonno - 
+	1) file lin up = support file
+	2) markup = html
+	3) stylesheet = css (optional)
+	4) activation = 
+
+plug in tar demo+documentation lagbe. aita pawa jabe website/github/example.
+
+jqueryscript.net	
